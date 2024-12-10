@@ -1,16 +1,35 @@
 ---
-title: "personal-website"
+title: "Soohyun Min"
+toc: false
+about:
+  template: trestles
+  image: profile.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/soohyun-min-3b63512b9/
+    - icon: github
+      text: Github
+      href: https://github.com/soo645
+    - icon: inbox-fill
+      text: Email
+      href: "mailto: soo.min64592@gmail.com"
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of California, Los Angeles | Los Angeles, CA \
+B.S in Statistics & Data Science | \
+September 2023 - June 2025 \
 
-```{r}
-1 + 1
-```
+Pasadena City College | Pasadena, CA \
+A.A in Computer Information Systems-Programming | \
+January 2021 - August 2023
 
-```{r}
-runif(10)
-```
+## Experience
 
+PROXIMA DX | Data Analyst Intern | July 2024 - August 2024
+
+FRENCHMAUVE | Sales Marketing Intern | January 2024 - March 2024
+
+HYEL | Beta Testing and Marketing Intern | September 2024 - March 2024

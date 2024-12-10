@@ -1,0 +1,18 @@
+---
+title: Project 2
+---
+
+## Introduction
+Commercial crab farming is a vital industry in coastal regions, with millions of crabs imported and consumed every year. This study focuses on predicting the shucked weight—the edible meat portion of crabs—using a linear regression model. The dataset includes key characteristics such as length, height, diameter, weight, age, and a dummy variable for sex (male or female). Data were sourced from Kaggle, featuring 2,660 observations of Boston crabs. The goal is to explore correlations between physical attributes and shucked weight, providing insights into the biological and economic aspects of crab farming.
+
+## Data Overview
+The response variable in this study is Shucked Weight, with predictors including Length, Weight, Diameter, Age, Height, and Sex. Initial analysis revealed significant challenges:
+
+- Several variables, such as Shucked Weight, Weight, Age, and Height, exhibited right-skewed distributions, while Length and Diameter were left-skewed.
+- Extreme outliers were identified, particularly in the Height variable (e.g., values ranging from 0.0375 to 2.8250 feet), suggesting potential data errors or mutations.
+- Multicollinearity among explanatory variables was detected, as high correlations complicate the estimation of individual predictor effects.
+
+## Interpretation
+This model retained a high $R^2$ of 97.12% and showed significant relationships for most predictors. It allowed for meaningful interpretations, such as a 1% increase in Weight being associated with a 1.09% increase in Shucked Weight. Similarly, a 1% increase in Age was linked to a 0.30% decrease in Shucked Weight, reflecting biological changes in older crabs. Male crabs were estimated to have 1.01% higher Shucked Weight than females, consistent with prior studies.
+
+Despite its strengths, the study faced limitations. Outliers in Height remained unresolved, and the predictors were limited to physical measurements and sex, excluding factors like diet or habitat. Future research could address these issues by incorporating additional variables and refining data collection processes to improve model accuracy and applicability.

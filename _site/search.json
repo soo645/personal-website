@@ -1,16 +1,149 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Soohyun Min",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.4401615 0.5833872 0.5629730 0.1483707 0.6277971 0.6791095 0.2767149\n [8] 0.7256081 0.7766712 0.8505123"
+    "text": "University of California, Los Angeles | Los Angeles, CA\nB.S in Statistics & Data Science |\nSeptember 2023 - June 2025\n\nPasadena City College | Pasadena, CA\nA.A in Computer Information Systems-Programming |\nJanuary 2021 - August 2023"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Soohyun Min",
+    "section": "",
+    "text": "University of California, Los Angeles | Los Angeles, CA\nB.S in Statistics & Data Science |\nSeptember 2023 - June 2025\n\nPasadena City College | Pasadena, CA\nA.A in Computer Information Systems-Programming |\nJanuary 2021 - August 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Soohyun Min",
+    "section": "Experience",
+    "text": "Experience\nPROXIMA DX | Data Analyst Intern | July 2024 - August 2024\nFRENCHMAUVE | Sales Marketing Intern | January 2024 - March 2024\nHYEL | Beta Testing and Marketing Intern | September 2024 - March 2024"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "runif(1)\n\n[1] 0.08212303"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "runif(1)\n\n[1] 0.08212303"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Title\n\n\n\n\n\n\nProject 1\n\n\n\n\nProject 2\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#project-1",
+    "href": "about.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is my project 1"
+  },
+  {
+    "objectID": "about.html#project-2",
+    "href": "about.html#project-2",
+    "title": "Projects",
+    "section": "Project 2",
+    "text": "Project 2\nHere is my project 2\n:::project-listing:::"
+  },
+  {
+    "objectID": "projects/01-project.html",
+    "href": "projects/01-project.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "The “California City Fiscal Health” project explores the fiscal health of cities in California, analyzing the relationships between population size, unemployment rates, and fiscal rankings. This study aims to understand the financial stability of cities and propose policy recommendations for improvement."
+  },
+  {
+    "objectID": "projects/02-project.html",
+    "href": "projects/02-project.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "Commercial crab farming is a vital industry in coastal regions, with millions of crabs imported and consumed every year. This study focuses on predicting the shucked weight—the edible meat portion of crabs—using a linear regression model. The dataset includes key characteristics such as length, height, diameter, weight, age, and a dummy variable for sex (male or female). Data were sourced from Kaggle, featuring 2,660 observations of Boston crabs. The goal is to explore correlations between physical attributes and shucked weight, providing insights into the biological and economic aspects of crab farming."
+  },
+  {
+    "objectID": "projects/01-project.html#project-background",
+    "href": "projects/01-project.html#project-background",
+    "title": "Project 1",
+    "section": "Project Background",
+    "text": "Project Background\nThe fiscal health of a city is a critical indicator of its ability to provide essential services such as education, healthcare, and public infrastructure. However, cities in California face significant disparities in financial stability due to varying economic challenges and fiscal policies. This project seeks to address these disparities by analyzing key factors influencing fiscal health."
+  },
+  {
+    "objectID": "projects/01-project.html#research-statement",
+    "href": "projects/01-project.html#research-statement",
+    "title": "Project 1",
+    "section": "Research Statement",
+    "text": "Research Statement\n\nThe relationship between the overall fiscal rank and population size\nThe relationship between population size and unemployment rate\nPredicting overall fiscal rank from other sub-ranks"
+  },
+  {
+    "objectID": "projects/01-project.html#data-and-methodology",
+    "href": "projects/01-project.html#data-and-methodology",
+    "title": "Project 1",
+    "section": "Data and Methodology",
+    "text": "Data and Methodology\nThe study utilizes fiscal data provided by the Auditor State of California from 2016 to 2020. To ensure robust analysis, the population size was log-transformed to address skewness, and regression models were applied to evaluate relationships between variables. The analysis was supplemented with data visualizations, including histograms, scatter plots, and box plots, to illustrate trends and patterns clearly."
+  },
+  {
+    "objectID": "projects/01-project.html#key-findings",
+    "href": "projects/01-project.html#key-findings",
+    "title": "Project 1",
+    "section": "Key Findings",
+    "text": "Key Findings\nThe findings revealed that larger cities generally rank higher in fiscal health, though the correlation is weak. Unemployment rates showed no significant relationship with population size, but a few cities exhibited outliers with notably higher rates. Most importantly, fiscal health was strongly influenced by factors such as debt burden and pension funding rank, which were identified as the most critical predictors of financial stability."
+  },
+  {
+    "objectID": "projects/01-project.html#conclusions",
+    "href": "projects/01-project.html#conclusions",
+    "title": "Project 1",
+    "section": "Conclusions",
+    "text": "Conclusions\nThis research underscores the complexity of fiscal health in California cities. While population size plays a role, deeper structural factors like debt management and pension funding have a more substantial impact. Cities with high fiscal health rankings typically have better financial governance and stability, whereas lower-ranked cities often struggle with structural weaknesses."
+  },
+  {
+    "objectID": "projects/01-project.html#recommendations",
+    "href": "projects/01-project.html#recommendations",
+    "title": "Project 1",
+    "section": "Recommendations",
+    "text": "Recommendations\nTo improve fiscal health across California, the study suggests several policy measures. These include enhancing fiscal transparency, strengthening debt and pension management strategies, and implementing targeted support programs for cities with weaker financial stability. Policymakers should also consider including socio-economic and governance indicators in future assessments to capture a more comprehensive picture of fiscal health."
+  },
+  {
+    "objectID": "projects/02-project.html#data-overview",
+    "href": "projects/02-project.html#data-overview",
+    "title": "Project 2",
+    "section": "Data Overview",
+    "text": "Data Overview\nThe response variable in this study is Shucked Weight, with predictors including Length, Weight, Diameter, Age, Height, and Sex. Initial analysis revealed significant challenges:\n\nSeveral variables, such as Shucked Weight, Weight, Age, and Height, exhibited right-skewed distributions, while Length and Diameter were left-skewed.\nExtreme outliers were identified, particularly in the Height variable (e.g., values ranging from 0.0375 to 2.8250 feet), suggesting potential data errors or mutations.\nMulticollinearity among explanatory variables was detected, as high correlations complicate the estimation of individual predictor effects."
+  },
+  {
+    "objectID": "projects/02-project.html#interpretation",
+    "href": "projects/02-project.html#interpretation",
+    "title": "Project 2",
+    "section": "Interpretation",
+    "text": "Interpretation\nThis model retained a high \\(R^2\\) of 97.12% and showed significant relationships for most predictors. It allowed for meaningful interpretations, such as a 1% increase in Weight being associated with a 1.09% increase in Shucked Weight. Similarly, a 1% increase in Age was linked to a 0.30% decrease in Shucked Weight, reflecting biological changes in older crabs. Male crabs were estimated to have 1.01% higher Shucked Weight than females, consistent with prior studies.\nDespite its strengths, the study faced limitations. Outliers in Height remained unresolved, and the predictors were limited to physical measurements and sex, excluding factors like diet or habitat. Future research could address these issues by incorporating additional variables and refining data collection processes to improve model accuracy and applicability."
+  },
+  {
+    "objectID": "projects/02-project.html#introduction",
+    "href": "projects/02-project.html#introduction",
+    "title": "Project 2",
+    "section": "",
+    "text": "Commercial crab farming is a vital industry in coastal regions, with millions of crabs imported and consumed every year. This study focuses on predicting the shucked weight—the edible meat portion of crabs—using a linear regression model. The dataset includes key characteristics such as length, height, diameter, weight, age, and a dummy variable for sex (male or female). Data were sourced from Kaggle, featuring 2,660 observations of Boston crabs. The goal is to explore correlations between physical attributes and shucked weight, providing insights into the biological and economic aspects of crab farming."
+  },
+  {
+    "objectID": "projects/01-project.html#introduction",
+    "href": "projects/01-project.html#introduction",
+    "title": "Project 1",
+    "section": "",
+    "text": "The “California City Fiscal Health” project explores the fiscal health of cities in California, analyzing the relationships between population size, unemployment rates, and fiscal rankings. This study aims to understand the financial stability of cities and propose policy recommendations for improvement."
   }
 ]

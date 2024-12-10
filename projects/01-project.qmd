@@ -1,0 +1,27 @@
+---
+title: Project 1
+---
+## Introduction
+The "California City Fiscal Health" project explores the fiscal health of cities in California, analyzing the relationships between population size, unemployment rates, and fiscal rankings. This study aims to understand the financial stability of cities and propose policy recommendations for improvement.
+
+## Project Background
+The fiscal health of a city is a critical indicator of its ability to provide essential services such as education, healthcare, and public infrastructure. However, cities in California face significant disparities in financial stability due to varying economic challenges and fiscal policies. This project seeks to address these disparities by analyzing key factors influencing fiscal health.
+
+## Research Statement 
+1. The relationship between the overall fiscal rank and population size
+
+2. The relationship between population size and unemployment rate
+
+3. Predicting overall fiscal rank from other sub-ranks
+
+## Data and Methodology
+The study utilizes fiscal data provided by the Auditor State of California from 2016 to 2020. To ensure robust analysis, the population size was log-transformed to address skewness, and regression models were applied to evaluate relationships between variables. The analysis was supplemented with data visualizations, including histograms, scatter plots, and box plots, to illustrate trends and patterns clearly.
+
+## Key Findings
+The findings revealed that larger cities generally rank higher in fiscal health, though the correlation is weak. Unemployment rates showed no significant relationship with population size, but a few cities exhibited outliers with notably higher rates. Most importantly, fiscal health was strongly influenced by factors such as debt burden and pension funding rank, which were identified as the most critical predictors of financial stability.
+
+## Conclusions
+This research underscores the complexity of fiscal health in California cities. While population size plays a role, deeper structural factors like debt management and pension funding have a more substantial impact. Cities with high fiscal health rankings typically have better financial governance and stability, whereas lower-ranked cities often struggle with structural weaknesses.
+
+## Recommendations
+To improve fiscal health across California, the study suggests several policy measures. These include enhancing fiscal transparency, strengthening debt and pension management strategies, and implementing targeted support programs for cities with weaker financial stability. Policymakers should also consider including socio-economic and governance indicators in future assessments to capture a more comprehensive picture of fiscal health.
