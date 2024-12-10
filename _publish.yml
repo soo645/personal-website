@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 633701be-37b3-4888-8175-4c081dac04e0
+      url: 'https://genuine-faun-c298a9.netlify.app'
